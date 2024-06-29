@@ -21,7 +21,7 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-design-using-html-css-bootstrap-ZsxSb3rse8)
 - Live Site URL: [Add live site URL here](https://sivin-s.github.io/qr-code-component-main/)
 
 ## My process
